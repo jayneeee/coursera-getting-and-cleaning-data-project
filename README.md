@@ -17,5 +17,5 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Overview
 - 'CodeBook.md' describes on the files, data set used in this project.
-- 'projectFinal.R' is the source code that perform the above analysis tasks. 
+- 'run_analysis.R' is the source code that perform the above analysis tasks. 
 - 'tidyData.txt' is the result obtained.
